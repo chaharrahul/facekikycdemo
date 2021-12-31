@@ -2,7 +2,6 @@ package com.faceki
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.facekikycverification.ui.SdkSetting
 
 class MainActivity : AppCompatActivity() {
 
